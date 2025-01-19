@@ -31,7 +31,8 @@ Menentukan harga rumah yang akurat berdasarkan fitur-fitur properti merupakan ta
 4. **Modeling**: Membangun model menggunakan Linear Regression, Random Forest, dan Gradient Boosting.
 5. **Evaluasi**: Mengevaluasi model dengan data uji.
 6. **Kesimpulan**: Menyimpulkan hasil dan implikasi model.
-
+   
+Mulai -> Load Data -> EDA dan Preprocessing Data -> Modelling -> Evaluasi Model -> Kesimpulan -> Selesai
 
 ---
 
